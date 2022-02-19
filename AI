@@ -1,0 +1,21 @@
+print("What is your name?")
+name=input("You:")
+print(" ")
+
+print("Where are you from?")
+country=input("You:")
+print(" ")
+
+print("What is your hobby?")
+hobby=input("You:")
+print(" ")
+
+print("What is your job?")
+job=input("You:")
+print(" ")
+
+print("What is your son name?")
+son_name=input("You:")
+print(" ")
+
+print("Hi"+","+name +" "+ "who come from" +" " +country+" "+"and"+" "+"very like"+" "+hobby+"."+" "+"He/She"+" "+"is"+" "+"a"+" "+job+"."+"His/Her"+" "+"son"+" "+"is"+" "+son_name)
